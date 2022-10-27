@@ -2,7 +2,7 @@
 <h3 align="center">Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/media/3051dc3458878bd54e38ebdefe65ba85.gif">
 
-- 🌱 I’m currently learning **New technologies**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **gatiyalap@gmail.com**
 
