@@ -26,7 +26,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <hr>
 
-<h1 align="center"> Research Paper </h1>
+<h1 align="center">My Research Paper </h1>
 
 <a href="https://www.mdpi.com/1905766">Trapezoidal Intuitionistic Fuzzy Power Heronian Aggregation Operator and Its Applications to Multiple-Attribute Group Decision-Making</a>
 by Jeevaraj Selvaraj, Prakash Gatiyala, and Sarfaraz Hashemkhani Zolfani.
