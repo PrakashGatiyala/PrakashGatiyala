@@ -1,59 +1,42 @@
-<h1 align="center">Hey there....It's Prakash Gatiyala</h1>
-<h3 align="center">Learner</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/media/3051dc3458878bd54e38ebdefe65ba85.gif">
+# Hi there, I'm Prakash Gatiyala 👋
 
-- 🌱 I’m currently learning **Javascript, Reactjs, Nodejs**
+I am a **Senior Software Engineer** at HCL Technologies in Bengaluru, with over three years of experience specializing in both frontend and backend development. My expertise spans various modern technologies, and I am passionate about creating efficient, scalable, and user-friendly applications.
 
-- 📫 How to reach me **gatiyalap@gmail.com**
+## 🚀 Technologies & Tools
 
-- ⚡ Fun fact **I like long walks and cricket...**
+- **Frontend:** ReactJS, JavaScript (ES6+), TypeScript, HTML5, CSS3, Redux, Webpack, Vite, Next.js
+- **Backend:** NodeJS, Express, RESTful APIs, SQL, NoSQL (MongoDB), Java, .NET Core
+- **DevOps:** Docker, Jenkins, Git, Jira, CI/CD Pipelines
+- **Cloud:** AWS (Familiarity)
+- **Testing:** Jest, Mocha, Chai, Storybook
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/PrakashGatiyal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PrakashGatiyal1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prakash-gatiyala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-gatiyala" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<hr>
+## 🛠️ Projects & Contributions
 
-<h1 align="center">My Research Paper </h1>
+### SCM_WebUI
+A comprehensive web application designed to streamline sucurity configuration management tasks. Integrated numerous API endpoints, implemented interactive components, and led a cross-functional team to deliver a highly responsive and efficient user interface.
 
-<a href="https://www.mdpi.com/1905766">Trapezoidal Intuitionistic Fuzzy Power Heronian Aggregation Operator and Its Applications to Multiple-Attribute Group Decision-Making</a>
-by Jeevaraj Selvaraj, Prakash Gatiyala, and Sarfaraz Hashemkhani Zolfani.
+### Bigfix Client Compliance
+Developed and maintained a client compliance tool, ensuring seamless integration with existing systems and optimizing performance.
 
-<hr>
-<h1 align="center"> Digital Badges </h1>
+### Bigfix WebReports
+Contributed to the design and development of WebReports, focusing on creating intuitive and customizable reports for end-users.
 
-[![@gatiyala's Holopin board](https://holopin.io/api/user/board?user=gatiyala)](https://holopin.io/@gatiyala)
-<hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashGatiyala&" alt="PrakashGatiyala" /></p> 
+## 📄 Publications
 
+**Trapezoidal Intuitionistic Fuzzy Power Heronian Aggregation Operator and Its Applications to Multiple-Attribute Group Decision-Making**
 
+## 🌱 I’m currently learning
 
+- Advanced cloud solutions on AWS
+- Enhancing expertise in large-scale distributed systems and system design
 
+## 💬 Let’s Connect!
 
+- **Email:** [gatiyalap@gmail.com](mailto:gatiyalap@gmail.com)
+- **LinkedIn:** [Prakash Gatiyala](https://www.linkedin.com/in/prakash-gatiyala/)
+- **GitHub:** [PrakashGatiyala](https://github.com/PrakashGatiyala)
 
-<!--
-**PrakashGatiyala/PrakashGatiyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+_Feel free to reach out if you want to discuss technology, job opportunities, or just to connect!_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
