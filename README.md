@@ -20,13 +20,21 @@ gatiyalap@gmail.com
 **Senior Software Engineer**  
 *HCL Technologies, Bengaluru*  
 *July 2021 - Present*  
-
-- Led design and development of Bigfix WebReports and SCM WebUI, increasing feature adoption by 30%.
-- Enhanced build performance by 25% through custom Webpack configuration.
-- Integrated 80+ API endpoints for seamless data flow and real-time updates.
-- Improved user satisfaction by 40% through Material UI components and interactive features.
-- Achieved 95% test coverage with 100+ unit tests using React Testing Library and Jest.
-- Managed cross-functional teams, achieving 95% on-time project completion.
+### Project: New WebReports Application
+- **Developed** a front-end application using React.js, improving report generation efficiency by **30%**.
+- **Implemented** global state management with React Context and `useReducer`, enhancing state handling and reducing code complexity by **20%**.
+- **Integrated** RESTful APIs for seamless data synchronization, resulting in a **25%** increase in data retrieval speed.
+- **Enhanced** user experience by creating responsive UI components with Material-UI, leading to a **15%** increase in user satisfaction.
+- **Optimized** application performance through lazy loading and memoization, reducing load times by **40%**.
+- **Wrote** unit and integration tests using Jest and React Testing Library, achieving **90%** test coverage and reducing bugs by **35%**.
+- **Configured** Webpack for efficient module bundling, reducing build size by **20%** and improving load times.
+### Project: Bigfix SCM-WebUI
+- **Developed and maintained** backend services for the SCM module using Node.js and Express, implementing **10+ RESTful APIs** for content creation, synchronization, and subscription management.
+- **Wrote and optimized** complex SQL queries for Microsoft SQL Server and DB2 databases, ensuring **30% improvement** in data retrieval and manipulation efficiency.
+- **Designed and tested** APIs using Postman, ensuring security and data integrity through thorough validation, resulting in a **20% reduction** in API-related issues.
+- **Developed responsive and interactive** frontend components for the SCM module using React and Redux, enhancing user experience and **increasing user engagement by 25%**.
+- **Implemented data synchronization** functions and caching mechanisms, improving performance and consistency across environments, leading to a **40% reduction** in data processing time.
+- **Conducted unit and integration testing** using Jest and Enzyme, ensuring high-quality standards and resolving **95% of identified bugs** in BFData's SCM module.
 
 ---
 
