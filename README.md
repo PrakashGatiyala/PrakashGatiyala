@@ -19,7 +19,7 @@ gatiyalap@gmail.com
 
 **Senior Software Engineer**  
 *HCL Technologies, Bengaluru*  
-*July 2021 - Present*  
+*July 2021 - October 2024*  
 ### Project: New WebReports Application
 - **Developed** a front-end application using React.js, improving report generation efficiency by **30%**.
 - **Implemented** global state management with React Context and `useReducer`, enhancing state handling and reducing code complexity by **20%**.
